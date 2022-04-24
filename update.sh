@@ -1,4 +1,5 @@
 #!/bin/bash
+git reset --hard HEAD
 git pull origin main
 chmod 777 release/ProjectGeniusOverhaul
 systemctl restart blazor
