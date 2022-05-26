@@ -272,6 +272,7 @@ main[b-222h8ph76g] {
     .collapse[b-ykbdl3png1] {
         /* Never collapse the sidebar for wide screens */
         display: block;
+        position: sticky;
     }
 }
 /* _content/ProjectGeniusOverhaul/Shared/NavMenuPresentations.razor.rz.scp.css */
@@ -337,6 +338,7 @@ main[b-222h8ph76g] {
     .collapse[b-7s3vodvrez] {
         /* Never collapse the sidebar for wide screens */
         display: block;
+        position: sticky;
     }
 }
 /* _content/ProjectGeniusOverhaul/Shared/NavMenuProfile.razor.rz.scp.css */
@@ -400,6 +402,7 @@ main[b-222h8ph76g] {
     .collapse[b-w9uq1xh3ns] {
         /* Never collapse the sidebar for wide screens */
         display: block;
+        position: sticky;
     }
 }
 /* _content/ProjectGeniusOverhaul/Shared/ProfileAbout.razor.rz.scp.css */
